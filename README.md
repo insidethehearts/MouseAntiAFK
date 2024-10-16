@@ -18,6 +18,6 @@
 > Indent X - Количество пикселей, на которое курсор будет перемещён по горизонтали <br/>
 > Indent Y - Количество пикселей, на которое курсор будет перемещён по вертикали <br/>
 
-Contacts:
-[https://vk.com/therimuru](https://vk.com/therimuru)
-[https://t.me/insidethehearts](https://t.me/insidethehearts)
+Contacts: <br/>
+[https://vk.com/therimuru](https://vk.com/therimuru) <br/>
+[https://t.me/insidethehearts](https://t.me/insidethehearts) <br/>
