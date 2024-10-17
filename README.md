@@ -36,6 +36,7 @@
 
 ###### :label: How to contact me?
 You can write to me with any question
+If you find a bug, an oversight, or want to suggest your ideas for implementation, please report it in [Issues](https://github.com/insidethehearts/MouseAntiAFK/issues)
 - [https://vk.com/therimuru](https://vk.com/therimuru) <br/>
 - [https://t.me/insidethehearts](https://t.me/insidethehearts) <br/>
 
@@ -56,5 +57,6 @@ You can write to me with any question
 
 ###### :label: Как связаться со мной?
 Вы можете написать мне по любому вопросу
+Если вы нашли баг, недоработку, или хотите предложить свои идеи для реализации, пожалуйста сообщите об этом в [Issues](https://github.com/insidethehearts/MouseAntiAFK/issues)
 - [https://vk.com/therimuru](https://vk.com/therimuru) <br/>
 - [https://t.me/insidethehearts](https://t.me/insidethehearts) <br/>
