@@ -3,9 +3,9 @@
 > **Latest version:** 1.0 <br/>
 > **Requirements:** Java Runtime Environment 1.8 or newer <br/>
 > **[Download](https://github.com/insidethehearts/MouseAntiAFK/releases/tag/Java)** <br/>
-> [RU Guide](ru-guide-original) <br/>
+> [RU Guide](#ru-guide-original) <br/>
 
-### [EN (google translate)](#en-guide)
+### EN Guide (google translate)
 > Easy to use software with a graphical interface that allows you to configure the automatic cursor movement <br/>
 ##### Configure
 | Parameter | Description |
