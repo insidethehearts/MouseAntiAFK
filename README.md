@@ -3,23 +3,28 @@
 > **Latest version:** 1.0 <br/>
 > **Requirements:** Java Runtime Environment 1.8 or newer <br/>
 > **[Download](https://github.com/insidethehearts/MouseAntiAFK/releases/tag/Java)** <br/>
+> [RU Guide](ru-guide-original) <br/>
 
-### EN (google translate):
+### [EN (google translate)](#en-guide)
 > Easy to use software with a graphical interface that allows you to configure the automatic cursor movement <br/>
 ##### Configure
-> Delay - The time in milliseconds after which the cursor will return to its initial position <br/>
-> Interval - The time in milliseconds during which the cursor will change its position <br/>
-> Indent X - The number of pixels the cursor will move horizontally <br/>
-> Indent Y - The number of pixels the cursor will move vertically <br/>
+| Parameter | Description |
+| ---- | ---- |
+| `Delay` | The time in milliseconds after which the cursor will return to its initial position | <br/>
+| `Interval` | The time in milliseconds during which the cursor will change its position | <br/>
+| `Indent X` | The number of pixels the cursor will move horizontally | <br/>
+| `Indent Y` | The number of pixels the cursor will move vertically | <br/>
 
-### RU (Original):
+### RU Guide (original):
 > Простое к использованию ПО с графическим интерфейсом, которое позволяет настроить автоматическое перемещение курсора <br/>
 ##### Настройка
-> Delay - Время в миллисекундах, спустя которое курсор будет возвращаться в своё начальное положение <br/>
-> Interval - Время в миллисекундах, при прохождении которого курсор будет менять свою позицию <br/>
-> Indent X - Количество пикселей, на которое курсор будет перемещён по горизонтали <br/>
-> Indent Y - Количество пикселей, на которое курсор будет перемещён по вертикали <br/>
+| Параметр | Описание |
+| ---- | ---- |
+| `Delay` | Время в миллисекундах, спустя которое курсор будет возвращаться в своё начальное положение | <br/>
+| `Interval` | Время в миллисекундах, при прохождении которого курсор будет менять свою позицию | <br/>
+| `Indent X` | Количество пикселей, на которое курсор будет перемещён по горизонтали | <br/>
+| `Indent Y` | Количество пикселей, на которое курсор будет перемещён по вертикали | <br/>
 
-Contacts: <br/>
-[https://vk.com/therimuru](https://vk.com/therimuru) <br/>
-[https://t.me/insidethehearts](https://t.me/insidethehearts) <br/>
+##### Contacts:<br/>
+- [https://vk.com/therimuru](https://vk.com/therimuru) <br/>
+- [https://t.me/insidethehearts](https://t.me/insidethehearts) <br/>
