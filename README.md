@@ -1,7 +1,9 @@
 # MouseAntiAfk by therimuru_ (me)
 
-> **Latest version: 1.0** <br/>
-> **[Download](https://github.com/insidethehearts/MouseAntiAFK/releases/tag/Java)**
+> **Latest version:** 1.0 <br/>
+> **Requirements:** Java Runtime Environment 1.8 or newer <br/>
+> **[Download](https://github.com/insidethehearts/MouseAntiAFK/releases/tag/Java)** <br/>
+
 ### EN (google translate):
 > Easy to use software with a graphical interface that allows you to configure the automatic cursor movement <br/>
 ##### Configure
